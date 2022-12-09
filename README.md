@@ -12,3 +12,6 @@ We utilized several packages like `pandas` to get some knowledge of the Uber dat
 * Store the datasets in SQL database;
 * Get some data from the database to know something about the data through SQL queries;
 * Visualize some part of the dataset.
+
+## Where to find it?
+All codes are in the file named `Final Project_IEOR 4501.ipynb` and it will automatically download and store the data in need.
