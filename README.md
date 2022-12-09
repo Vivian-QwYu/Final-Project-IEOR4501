@@ -14,7 +14,7 @@ We utilized several packages like `pandas` to get some knowledge of the Uber dat
 * Visualize some part of the dataset.
 
 ## Where to find it?
-All codes are in the file named `Final Project_IEOR 4501.ipynb` and it will automatically download and store the data in need.
+All codes are in the file named `Final Project_IEOR4501.ipynb` and it will automatically download and store the data in need.
 
 ## Dependencies
 To see what packages other than the ones already installed in anaconde, see `requirements.txt`.
