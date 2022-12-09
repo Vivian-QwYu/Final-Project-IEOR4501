@@ -23,5 +23,8 @@ All codes are in the file named `Final Project_IEOR 4501.ipynb` and it will auto
 Here are two instances for the heatmap visualization.
 
 #### RadioButton
+![WechatIMG14972](https://user-images.githubusercontent.com/116607797/206611190-6acc5b14-42c4-4de4-9f22-86a4d44c4d9d.png)
+
+
 
 Here are the outcomes of choosing different radio buttons.
