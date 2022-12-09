@@ -16,7 +16,11 @@ We utilized several packages like `pandas` to get some knowledge of the Uber dat
 ## Where to find it?
 All codes are in the file named `Final Project_IEOR 4501.ipynb` and it will automatically download and store the data in need.
 
-### Appendix: Some visualization outputs that might not be available in online preview.
+## Dependencies
+To see what packages other than the ones already installed in anaconde, see `requirements.txt`.
+
+
+## Appendix: Some visualization outputs that might not be available in online preview.
 #### Heatmap
 <img width="866" alt="7d7fadef5b17870eb5ab88dd2d2d6dc" src="https://user-images.githubusercontent.com/116607712/206610488-6fb99428-23d3-4dce-85f4-b39db7bf915d.png">
 <img width="872" alt="2ab39f8077a1994295d0f3cab1d6d09" src="https://user-images.githubusercontent.com/116607712/206610503-e3d2c759-a78f-4b2f-b3fe-c1bb69ef0729.png">
