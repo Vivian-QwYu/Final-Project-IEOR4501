@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore all parquet files
+*.parquet
+
 # Distribution / packaging
 .Python
 build/
