@@ -25,6 +25,8 @@ Here are two instances for the heatmap visualization.
 #### RadioButton
 ![WechatIMG14972](https://user-images.githubusercontent.com/116607797/206611190-6acc5b14-42c4-4de4-9f22-86a4d44c4d9d.png)
 
+![WechatIMG14973](https://user-images.githubusercontent.com/116607797/206611235-7862ea03-28fe-45f3-8e88-05f97136f137.png)
 
+![WechatIMG14974](https://user-images.githubusercontent.com/116607797/206611253-f839bca6-d329-4423-b3fd-5ec2c25bde8b.png)
 
 Here are the outcomes of choosing different radio buttons.
