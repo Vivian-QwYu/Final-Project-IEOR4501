@@ -23,7 +23,5 @@ All codes are in the file named `Final Project_IEOR 4501.ipynb` and it will auto
 Here are two instances for the heatmap visualization.
 
 #### RadioButton
-<img width="872" alt="2ab39f8077a1994295d0f3cab1d6d09" src="https://user-images.githubusercontent.com/116607712/206610591-0b0c5906-d45d-43ba-b233-d5126480a964.png">
-<img width="872" alt="2ab39f8077a1994295d0f3cab1d6d09" src="https://user-images.githubusercontent.com/116607712/206610604-1742bfd7-9920-4da9-a310-d672e9526f6f.png">
-![Figure_2](https://user-images.githubusercontent.com/116607712/206610677-6800a75f-84d3-4c38-87ba-9960f8062124.png)
+
 Here are the outcomes of choosing different radio buttons.
